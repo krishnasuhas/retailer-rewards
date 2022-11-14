@@ -11,7 +11,7 @@ Ex: for a $120 purchase the customer receives 90 points (((120 - 50) * 1) + ((12
 Created a local database usingH2 which will be initialized by loading few customers and 
 respective transactions during application start. Schema for both will be shown as below:
 
-![Customer Schema](relative/path/to/img.jpg?raw=true "Title")
+![Customer Schema](resources/images/Screen Shot 2022-11-14 at 3.40.32 AM.png?raw=true "Title")
 
 
 # Data Access layer
